@@ -268,56 +268,56 @@
     "qid": "E40026",
     "type": "judge",
     "question": "判断对错：\"one\" 表示数字 1。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "E40027",
     "type": "judge",
     "question": "判断对错：你好可以说 \"hello\"。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "E40028",
     "type": "judge",
     "question": "判断对错：\"dog\" 是一种动物。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "E40029",
     "type": "judge",
     "question": "判断对错：\"book\" 是钢笔的意思。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "E40030",
     "type": "judge",
     "question": "判断对错：黄色是 \"blue\"。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "E40031",
     "type": "judge",
     "question": "判断对错：\"cat\" 是一种动物。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "E40032",
     "type": "judge",
     "question": "判断对错：\"book\" 是钢笔的意思。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "E40033",
     "type": "judge",
     "question": "判断对错：\"five\" 表示数字 5。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {

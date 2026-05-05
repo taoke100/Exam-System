@@ -368,70 +368,70 @@
     "qid": "C0036",
     "type": "judge",
     "question": "判断对错：太阳从东方升起。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "C0037",
     "type": "judge",
     "question": "判断对错：\"人\"字共有两画。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "C0038",
     "type": "judge",
     "question": "判断对错：小学生要好好学习。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C0039",
     "type": "judge",
     "question": "判断对错：春天是温暖的季节。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "C0040",
     "type": "judge",
     "question": "判断对错：我们是小学生。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "C0041",
     "type": "judge",
     "question": "判断对错：\"日\"字共有四画。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C0042",
     "type": "judge",
     "question": "判断对错：我们是小学生。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C0043",
     "type": "judge",
     "question": "判断对错：太阳从东方升起。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "C0044",
     "type": "judge",
     "question": "判断对错：小学生要好好学习。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C0045",
     "type": "judge",
     "question": "判断对错：我们是小学生。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {

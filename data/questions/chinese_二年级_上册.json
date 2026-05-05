@@ -308,56 +308,56 @@
     "qid": "C20036",
     "type": "judge",
     "question": "判断对错：月亮会发光。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C20037",
     "type": "judge",
     "question": "判断对错：一年有四个季节。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C20038",
     "type": "judge",
     "question": "判断对错：北京是中国的首都。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C20039",
     "type": "judge",
     "question": "判断对错：小学生要好好学习。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C20040",
     "type": "judge",
     "question": "判断对错：鸟儿会在天上飞。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "C20041",
     "type": "judge",
     "question": "判断对错：太阳从东方升起。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "C20042",
     "type": "judge",
     "question": "判断对错：太阳从东方升起。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C20043",
     "type": "judge",
     "question": "判断对错：鸟儿会在天上飞。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {

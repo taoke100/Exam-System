@@ -308,56 +308,56 @@
     "qid": "C60036",
     "type": "judge",
     "question": "判断对错：北京是中国的首都。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C60037",
     "type": "judge",
     "question": "判断对错：同学之间要友爱。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C60038",
     "type": "judge",
     "question": "判断对错：同学之间要友爱。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C60039",
     "type": "judge",
     "question": "判断对错：爱国敬业。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C60040",
     "type": "judge",
     "question": "判断对错：一年有四个季节。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "C60041",
     "type": "judge",
     "question": "判断对错：爱国敬业。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C60042",
     "type": "judge",
     "question": "判断对错：北京是中国的首都。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "C60043",
     "type": "judge",
     "question": "判断对错：爱国敬业。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {

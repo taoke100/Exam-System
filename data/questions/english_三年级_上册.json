@@ -268,56 +268,56 @@
     "qid": "E30026",
     "type": "judge",
     "question": "判断对错：\"one\" 表示数字 1。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "E30027",
     "type": "judge",
     "question": "判断对错：\"apple\" 是苹果的意思。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "E30028",
     "type": "judge",
     "question": "判断对错：早上是 \"morning\"。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "E30029",
     "type": "judge",
     "question": "判断对错：\"one\" 表示数字 1。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "E30030",
     "type": "judge",
     "question": "判断对错：\"one\" 表示数字 1。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "E30031",
     "type": "judge",
     "question": "判断对错：\"five\" 表示数字 5。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "E30032",
     "type": "judge",
     "question": "判断对错：红色是 \"red\"。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "E30033",
     "type": "judge",
     "question": "判断对错：\"apple\" 是苹果的意思。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {

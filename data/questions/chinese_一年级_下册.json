@@ -308,56 +308,56 @@
     "qid": "C10036",
     "type": "judge",
     "question": "判断对错：鸟儿会在天上飞。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C10037",
     "type": "judge",
     "question": "判断对错：一年有四个季节。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C10038",
     "type": "judge",
     "question": "判断对错：爱国敬业。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C10039",
     "type": "judge",
     "question": "判断对错：同学之间要友爱。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "C10040",
     "type": "judge",
     "question": "判断对错：鸟儿会在天上飞。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C10041",
     "type": "judge",
     "question": "判断对错：月亮会发光。",
-    "answer": "×",
+    "answer": "错",
     "explanation": "错误"
   },
   {
     "qid": "C10042",
     "type": "judge",
     "question": "判断对错：鸟儿会在天上飞。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
     "qid": "C10043",
     "type": "judge",
     "question": "判断对错：月亮会发光。",
-    "answer": "√",
+    "answer": "对",
     "explanation": "正确"
   },
   {
