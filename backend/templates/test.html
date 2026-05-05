@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>系统诊断</title>
+  <style>
+    body { font-family: monospace; padding: 20px; background: #1e1e1e; color: #fff; }
+    .box { background: #2d2d2d; padding: 15px; margin: 10px 0; border-radius: 5px; }
+    .success { color: #4caf50; }
+    .error { color: #f44336; }
+    .warning { color: #ff9800; }
+    button { padding: 10px 20px; margin: 5px; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h1>🔍 系统诊断工具</h1>
+  
+  <div id="results"></div>
+  
+  <button onclick="runTests()">▶️ 运行所有测试</button>
+  <button onclick="testAPI()">测试API</button>
+  <button onclick="testGenerate()">测试生成试卷</button>
+  
+  <script>
+    const API = 'http://localhost:5000';
+    
+    function log(msg, type='') {
+      const div = document.createElement('div');
+      div.className = 'box ' + type;
+      div.textContent = msg;
+      document.getElementById('results').prepend(div);
+      console.log(msg);
+    }
+    
+    async function testAPI() {
+      log('测试1: GET /api/subjects');
+      try {
+        const res = await fetch(API + '/api/subjects');
+        const data = await res.json();
+        log('✅ 成功! 返回: ' + JSON.stringify(data), 'success');
+      } catch (e) {
+        log('❌ 失败: ' + e.message, 'error');
+      }
+    }
+    
+    async function testGenerate() {
+      log('测试2: POST /api/papers/generate');
+      try {
+        const res = await fetch(API + '/api/papers/generate', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ 
+            grade: '二年级', 
+            subject: '语文', 
+            semester: '上册' 
+          })
+        });
+        const data = await res.json();
+        log('✅ 成功! 试卷ID: ' + data.paper_id, 'success');
+        log('📚 题目数: ' + data.questions.length, 'success');
+      } catch (e) {
+        log('❌ 失败: ' + e.message, 'error');
+      }
+    }
+    
+    async function runTests() {
+      document.getElementById('results').innerHTML = '';
+      log('开始系统诊断...', 'warning');
+      await testAPI();
+      await testGenerate();
+      log('诊断完成!', 'warning');
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,510 @@
+{
+  "paper_id": "英语下册P015",
+  "subject": "英语",
+  "semester": "下册",
+  "paper_num": 15,
+  "total_score": 100,
+  "total_questions": 50,
+  "questions": [
+    {
+      "qid": "E0039",
+      "type": "choice",
+      "question": "单词 \"orange\" 的中文意思是？",
+      "options": [
+        "A. 橙子",
+        "B. 猫",
+        "C. 钢笔",
+        "D. 下午"
+      ],
+      "answer": "A",
+      "explanation": "\"orange\" 意思是 \"橙子\""
+    },
+    {
+      "qid": "E0023",
+      "type": "fill",
+      "question": "补全单词：o__（苹果）",
+      "answer": "one",
+      "explanation": "这个单词是 \"one\""
+    },
+    {
+      "qid": "E0045",
+      "type": "choice",
+      "question": "单词 \"pen\" 的中文意思是？",
+      "options": [
+        "A. 钢笔",
+        "B. 二",
+        "C. 香蕉",
+        "D. 蓝色"
+      ],
+      "answer": "A",
+      "explanation": "\"pen\" 意思是 \"钢笔\""
+    },
+    {
+      "qid": "E0029",
+      "type": "fill",
+      "question": "补全单词：t__（苹果）",
+      "answer": "two",
+      "explanation": "这个单词是 \"two\""
+    },
+    {
+      "qid": "E0060",
+      "type": "fill",
+      "question": "翻译：I am a student.（我是___）",
+      "answer": "学生",
+      "explanation": "student 的意思是学生"
+    },
+    {
+      "qid": "E0046",
+      "type": "judge",
+      "question": "判断对错：\"dog\" 是一种动物。",
+      "answer": "×",
+      "explanation": "错误"
+    },
+    {
+      "qid": "E0014",
+      "type": "choice",
+      "question": "\"苹果\" 的英语单词是？",
+      "options": [
+        "A. two",
+        "B. apple",
+        "C. red",
+        "D. hello"
+      ],
+      "answer": "B",
+      "explanation": "\"苹果\" 的英语是 \"apple\""
+    },
+    {
+      "qid": "E0047",
+      "type": "judge",
+      "question": "判断对错：\"dog\" 是一种动物。",
+      "answer": "×",
+      "explanation": "错误"
+    },
+    {
+      "qid": "E0010",
+      "type": "choice",
+      "question": "\"二\" 的英语单词是？",
+      "options": [
+        "A. evening",
+        "B. orange",
+        "C. two",
+        "D. one"
+      ],
+      "answer": "C",
+      "explanation": "\"二\" 的英语是 \"two\""
+    },
+    {
+      "qid": "E0016",
+      "type": "choice",
+      "question": "\"香蕉\" 的英语单词是？",
+      "options": [
+        "A. orange",
+        "B. banana",
+        "C. thank",
+        "D. red"
+      ],
+      "answer": "B",
+      "explanation": "\"香蕉\" 的英语是 \"banana\""
+    },
+    {
+      "qid": "E0021",
+      "type": "fill",
+      "question": "补全单词：a____（苹果）",
+      "answer": "apple",
+      "explanation": "这个单词是 \"apple\""
+    },
+    {
+      "qid": "E0034",
+      "type": "fill",
+      "question": "补全单词：b___（苹果）",
+      "answer": "blue",
+      "explanation": "这个单词是 \"blue\""
+    },
+    {
+      "qid": "E0057",
+      "type": "fill",
+      "question": "翻译：I am a student.（我是___）",
+      "answer": "学生",
+      "explanation": "student 的意思是学生"
+    },
+    {
+      "qid": "E0037",
+      "type": "choice",
+      "question": "单词 \"four\" 的中文意思是？",
+      "options": [
+        "A. 四",
+        "B. 二",
+        "C. 你好",
+        "D. 是"
+      ],
+      "answer": "A",
+      "explanation": "\"four\" 意思是 \"四\""
+    },
+    {
+      "qid": "E0008",
+      "type": "choice",
+      "question": "\"谢谢\" 的英语单词是？",
+      "options": [
+        "A. five",
+        "B. one",
+        "C. thank",
+        "D. cat"
+      ],
+      "answer": "C",
+      "explanation": "\"谢谢\" 的英语是 \"thank\""
+    },
+    {
+      "qid": "E0056",
+      "type": "fill",
+      "question": "翻译：I am a student.（我是___）",
+      "answer": "学生",
+      "explanation": "student 的意思是学生"
+    },
+    {
+      "qid": "E0041",
+      "type": "choice",
+      "question": "单词 \"six\" 的中文意思是？",
+      "options": [
+        "A. 六",
+        "B. 不",
+        "C. 四",
+        "D. 狗"
+      ],
+      "answer": "A",
+      "explanation": "\"six\" 意思是 \"六\""
+    },
+    {
+      "qid": "E0004",
+      "type": "choice",
+      "question": "\"好的\" 的英语单词是？",
+      "options": [
+        "A. dog",
+        "B. no",
+        "C. hello",
+        "D. good"
+      ],
+      "answer": "D",
+      "explanation": "\"好的\" 的英语是 \"good\""
+    },
+    {
+      "qid": "E0013",
+      "type": "choice",
+      "question": "\"狗\" 的英语单词是？",
+      "options": [
+        "A. dog",
+        "B. banana",
+        "C. thank",
+        "D. yellow"
+      ],
+      "answer": "A",
+      "explanation": "\"狗\" 的英语是 \"dog\""
+    },
+    {
+      "qid": "E0024",
+      "type": "fill",
+      "question": "补全单词：p__（苹果）",
+      "answer": "pen",
+      "explanation": "这个单词是 \"pen\""
+    },
+    {
+      "qid": "E0043",
+      "type": "choice",
+      "question": "单词 \"ruler\" 的中文意思是？",
+      "options": [
+        "A. 尺子",
+        "B. 早上",
+        "C. 三",
+        "D. 橙子"
+      ],
+      "answer": "A",
+      "explanation": "\"ruler\" 意思是 \"尺子\""
+    },
+    {
+      "qid": "E0002",
+      "type": "choice",
+      "question": "\"好的\" 的英语单词是？",
+      "options": [
+        "A. three",
+        "B. dog",
+        "C. pen",
+        "D. good"
+      ],
+      "answer": "D",
+      "explanation": "\"好的\" 的英语是 \"good\""
+    },
+    {
+      "qid": "E0003",
+      "type": "choice",
+      "question": "\"红色\" 的英语单词是？",
+      "options": [
+        "A. two",
+        "B. cat",
+        "C. red",
+        "D. book"
+      ],
+      "answer": "C",
+      "explanation": "\"红色\" 的英语是 \"red\""
+    },
+    {
+      "qid": "E0025",
+      "type": "fill",
+      "question": "补全单词：b_____（苹果）",
+      "answer": "banana",
+      "explanation": "这个单词是 \"banana\""
+    },
+    {
+      "qid": "E0026",
+      "type": "fill",
+      "question": "补全单词：t__（苹果）",
+      "answer": "two",
+      "explanation": "这个单词是 \"two\""
+    },
+    {
+      "qid": "E0011",
+      "type": "choice",
+      "question": "\"晚上\" 的英语单词是？",
+      "options": [
+        "A. two",
+        "B. evening",
+        "C. yellow",
+        "D. apple"
+      ],
+      "answer": "B",
+      "explanation": "\"晚上\" 的英语是 \"evening\""
+    },
+    {
+      "qid": "E0022",
+      "type": "fill",
+      "question": "补全单词：o_____（苹果）",
+      "answer": "orange",
+      "explanation": "这个单词是 \"orange\""
+    },
+    {
+      "qid": "E0005",
+      "type": "choice",
+      "question": "\"不\" 的英语单词是？",
+      "options": [
+        "A. ruler",
+        "B. red",
+        "C. book",
+        "D. no"
+      ],
+      "answer": "D",
+      "explanation": "\"不\" 的英语是 \"no\""
+    },
+    {
+      "qid": "E0044",
+      "type": "choice",
+      "question": "单词 \"apple\" 的中文意思是？",
+      "options": [
+        "A. 苹果",
+        "B. 蓝色",
+        "C. 五",
+        "D. 黄色"
+      ],
+      "answer": "A",
+      "explanation": "\"apple\" 意思是 \"苹果\""
+    },
+    {
+      "qid": "E0054",
+      "type": "judge",
+      "question": "判断对错：\"book\" 是钢笔的意思。",
+      "answer": "√",
+      "explanation": "正确"
+    },
+    {
+      "qid": "E0028",
+      "type": "fill",
+      "question": "补全单词：c__（苹果）",
+      "answer": "cat",
+      "explanation": "这个单词是 \"cat\""
+    },
+    {
+      "qid": "E0033",
+      "type": "fill",
+      "question": "补全单词：a____（苹果）",
+      "answer": "apple",
+      "explanation": "这个单词是 \"apple\""
+    },
+    {
+      "qid": "E0012",
+      "type": "choice",
+      "question": "\"好的\" 的英语单词是？",
+      "options": [
+        "A. thank",
+        "B. good",
+        "C. dog",
+        "D. yes"
+      ],
+      "answer": "B",
+      "explanation": "\"好的\" 的英语是 \"good\""
+    },
+    {
+      "qid": "E0019",
+      "type": "choice",
+      "question": "\"三\" 的英语单词是？",
+      "options": [
+        "A. yellow",
+        "B. evening",
+        "C. three",
+        "D. blue"
+      ],
+      "answer": "C",
+      "explanation": "\"三\" 的英语是 \"three\""
+    },
+    {
+      "qid": "E0052",
+      "type": "judge",
+      "question": "判断对错：早上是 \"morning\"。",
+      "answer": "×",
+      "explanation": "错误"
+    },
+    {
+      "qid": "E0017",
+      "type": "choice",
+      "question": "\"你好\" 的英语单词是？",
+      "options": [
+        "A. four",
+        "B. hello",
+        "C. afternoon",
+        "D. orange"
+      ],
+      "answer": "B",
+      "explanation": "\"你好\" 的英语是 \"hello\""
+    },
+    {
+      "qid": "E0058",
+      "type": "fill",
+      "question": "翻译：I am a student.（我是___）",
+      "answer": "学生",
+      "explanation": "student 的意思是学生"
+    },
+    {
+      "qid": "E0030",
+      "type": "fill",
+      "question": "补全单词：b___（苹果）",
+      "answer": "book",
+      "explanation": "这个单词是 \"book\""
+    },
+    {
+      "qid": "E0053",
+      "type": "judge",
+      "question": "判断对错：\"apple\" 是苹果的意思。",
+      "answer": "√",
+      "explanation": "正确"
+    },
+    {
+      "qid": "E0055",
+      "type": "judge",
+      "question": "判断对错：\"cat\" 是一种动物。",
+      "answer": "√",
+      "explanation": "正确"
+    },
+    {
+      "qid": "E0020",
+      "type": "choice",
+      "question": "\"好的\" 的英语单词是？",
+      "options": [
+        "A. yellow",
+        "B. good",
+        "C. one",
+        "D. yes"
+      ],
+      "answer": "B",
+      "explanation": "\"好的\" 的英语是 \"good\""
+    },
+    {
+      "qid": "E0040",
+      "type": "choice",
+      "question": "单词 \"orange\" 的中文意思是？",
+      "options": [
+        "A. 橙子",
+        "B. 猫",
+        "C. 晚上",
+        "D. 谢谢"
+      ],
+      "answer": "A",
+      "explanation": "\"orange\" 意思是 \"橙子\""
+    },
+    {
+      "qid": "E0031",
+      "type": "fill",
+      "question": "补全单词：t__（苹果）",
+      "answer": "two",
+      "explanation": "这个单词是 \"two\""
+    },
+    {
+      "qid": "E0018",
+      "type": "choice",
+      "question": "\"早上\" 的英语单词是？",
+      "options": [
+        "A. five",
+        "B. morning",
+        "C. yellow",
+        "D. no"
+      ],
+      "answer": "B",
+      "explanation": "\"早上\" 的英语是 \"morning\""
+    },
+    {
+      "qid": "E0042",
+      "type": "choice",
+      "question": "单词 \"book\" 的中文意思是？",
+      "options": [
+        "A. 书",
+        "B. 是",
+        "C. 一",
+        "D. 三"
+      ],
+      "answer": "A",
+      "explanation": "\"book\" 意思是 \"书\""
+    },
+    {
+      "qid": "E0051",
+      "type": "judge",
+      "question": "判断对错：黄色是 \"blue\"。",
+      "answer": "√",
+      "explanation": "正确"
+    },
+    {
+      "qid": "E0038",
+      "type": "choice",
+      "question": "单词 \"yes\" 的中文意思是？",
+      "options": [
+        "A. 是",
+        "B. 橙子",
+        "C. 尺子",
+        "D. 黄色"
+      ],
+      "answer": "A",
+      "explanation": "\"yes\" 意思是 \"是\""
+    },
+    {
+      "qid": "E0032",
+      "type": "fill",
+      "question": "补全单词：r____（苹果）",
+      "answer": "ruler",
+      "explanation": "这个单词是 \"ruler\""
+    },
+    {
+      "qid": "E0006",
+      "type": "choice",
+      "question": "\"苹果\" 的英语单词是？",
+      "options": [
+        "A. two",
+        "B. apple",
+        "C. evening",
+        "D. five"
+      ],
+      "answer": "B",
+      "explanation": "\"苹果\" 的英语是 \"apple\""
+    },
+    {
+      "qid": "E0050",
+      "type": "judge",
+      "question": "判断对错：\"apple\" 是苹果的意思。",
+      "answer": "×",
+      "explanation": "错误"
+    }
+  ]
+}

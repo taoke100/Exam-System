@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>北京海淀小学考试系统</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Microsoft YaHei', sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh; }
+    
+    .header { background: white; padding: 15px 30px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+    .logo { font-size: 20px; font-weight: bold; color: #667eea; }
+    .nav-btn { background: none; border: none; cursor: pointer; font-size: 16px; margin-left: 20px; color: #666; }
+    .nav-btn:hover, .nav-btn.active { color: #667eea; }
+    
+    .container { max-width: 800px; margin: 50px auto; padding: 20px; }
+    
+    .card { background: white; padding: 40px; border-radius: 20px; box-shadow: 0 10px 40px rgba(0,0,0,0.2); text-align: center; }
+    .card h1 { font-size: 32px; color: #333; margin-bottom: 30px; }
+    
+    .form-group { margin-bottom: 25px; }
+    .form-group label { font-size: 18px; margin-right: 15px; }
+    .form-group select { padding: 10px 20px; font-size: 16px; border: 2px solid #ddd; border-radius: 10px; width: 150px; }
+    
+    .btn { display: inline-block; padding: 15px 40px; background: #667eea; color: white; border: none; border-radius: 30px; font-size: 18px; cursor: pointer; margin: 10px; transition: transform 0.2s; }
+    .btn:hover { transform: scale(1.05); }
+    .btn:disabled { background: #ccc; cursor: not-allowed; }
+    
+    .info { margin-top: 20px; color: #888; font-size: 14px; }
+    
+    /* 考试页面 */
+    .exam-card { background: white; padding: 30px; border-radius: 15px; margin-bottom: 20px; box-shadow: 0 5px 20px rgba(0,0,0,0.1); }
+    .question-header { display: flex; justify-content: space-between; margin-bottom: 20px; font-size: 18px; color: #666; }
+    .question-text { font-size: 20px; font-weight: bold; margin-bottom: 20px; line-height: 1.6; }
+    
+    .options { text-align: left; }
+    .option { padding: 15px 20px; margin-bottom: 10px; border: 2px solid #eee; border-radius: 10px; cursor: pointer; transition: all 0.2s; }
+    .option:hover { border-color: #667eea; background: #f8f9ff; }
+    .option.selected { border-color: #667eea; background: #667eea; color: white; }
+    
+    .input-answer { width: 100%; padding: 15px; font-size: 18px; border: 2px solid #ddd; border-radius: 10px; }
+    
+    .nav-buttons { display: flex; justify-content: space-between; margin-top: 20px; }
+    .progress-bar { height: 8px; background: #eee; border-radius: 4px; margin-bottom: 20px; overflow: hidden; }
+    .progress-fill { height: 100%; background: #667eea; transition: width 0.3s; }
+    
+    .question-dots { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+    .dot { width: 36px; height: 36px; display: flex; align-items: center; justify-content: center; border-radius: 50%; background: #eee; cursor: pointer; font-size: 14px; }
+    .dot.answered { background: #667eea; color: white; }
+    .dot.current { border: 3px solid #667eea; }
+    
+    .timer { font-size: 28px; font-weight: bold; }
+    .timer.warning { color: red; }
+    
+    .hidden { display: none !important; }
+    
+    /* 结果页面 */
+    .result-score { font-size: 48px; color: #667eea; font-weight: bold; margin: 20px 0; }
+    .result-stats { display: flex; justify-content: center; gap: 40px; margin: 30px 0; }
+    .stat-box { text-align: center; }
+    .stat-num { font-size: 36px; font-weight: bold; }
+    .stat-label { color: #666; }
+    
+    /* 错题本 */
+    .wrong-table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    .wrong-table th, .wrong-table td { padding: 15px; text-align: left; border-bottom: 1px solid #eee; }
+    .wrong-table th { background: #f8f9fa; font-weight: bold; }
+    .wrong-answer { color: red; }
+    .correct-answer { color: green; }
+  </style>
+</head>
+<body>
+  <div id="app">
+    <!-- 首页 -->
+    <div id="home-page">
+      <div class="header">
+        <span class="logo">📚 北京海淀小学考试系统</span>
+        <div>
+          <button class="nav-btn active" onclick="showPage('home')">首页</button>
+          <button class="nav-btn" onclick="showPage('wrong')">错题本</button>
+        </div>
+      </div>
+      <div class="container">
+        <div class="card">
+          <h1>🎯 开始考试</h1>
+          <div class="form-group">
+            <label>年级：</label>
+            <select id="grade">
+              <option value="一年级">一年级</option>
+              <option value="二年级">二年级</option>
+              <option value="三年级">三年级</option>
+              <option value="四年级">四年级</option>
+              <option value="五年级">五年级</option>
+              <option value="六年级">六年级</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>科目：</label>
+            <select id="subject">
+              <option value="语文">语文</option>
+              <option value="数学">数学</option>
+              <option value="英语">英语</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>学期：</label>
+            <select id="semester">
+              <option value="上册">上册</option>
+              <option value="下册">下册</option>
+            </select>
+          </div>
+          <button class="btn" onclick="startExam()">🚀 开始考试</button>
+          <div class="info">
+            <p>📊 1-6年级全科（语文/数学/英语），共 3600套试卷</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 考试页面 -->
+    <div id="exam-page" class="hidden">
+      <div class="header">
+        <span class="logo" id="exam-title">📚 考试中</span>
+        <span class="timer" id="timer">60:00</span>
+      </div>
+      <div class="container">
+        <div class="progress-bar"><div class="progress-fill" id="progress"></div></div>
+        
+        <div class="exam-card">
+          <div class="question-header">
+            <span id="question-num">第 1 / 50 题</span>
+            <span id="question-type">选择题</span>
+          </div>
+          <div class="question-text" id="question-text">题目内容</div>
+          
+          <div id="options-container" class="options"></div>
+          <input type="text" id="fill-answer" class="input-answer hidden" placeholder="输入答案">
+        </div>
+        
+        <div class="nav-buttons">
+          <button class="btn" id="prev-btn" onclick="prevQuestion()">⬅ 上一题</button>
+          <button class="btn" id="next-btn" onclick="nextQuestion()">下一题 ➡</button>
+          <button class="btn" id="submit-btn" onclick="submitExam()" style="display:none;">📤 提交试卷</button>
+        </div>
+        
+        <div class="question-dots" id="question-dots"></div>
+      </div>
+    </div>
+    
+    <!-- 结果页面 -->
+    <div id="result-page" class="hidden">
+      <div class="container">
+        <div class="card">
+          <h1>🎉 考试完成！</h1>
+          <div class="result-score" id="score-display">0 / 100</div>
+          <div class="result-stats">
+            <div class="stat-box">
+              <div class="stat-num" id="correct-count">0</div>
+              <div class="stat-label">正确</div>
+            </div>
+            <div class="stat-box">
+              <div class="stat-num" id="wrong-count">0</div>
+              <div class="stat-label">错误</div>
+            </div>
+          </div>
+          <button class="btn" onclick="showPage('home')">返回首页</button>
+          <button class="btn" onclick="showPage('wrong')">查看错题</button>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 错题本页面 -->
+    <div id="wrong-page" class="hidden">
+      <div class="header">
+        <span class="logo">📝 错题本</span>
+        <div>
+          <button class="nav-btn" onclick="showPage('home')">首页</button>
+          <button class="nav-btn active" onclick="showPage('wrong')">错题本</button>
+        </div>
+      </div>
+      <div class="container">
+        <div class="card">
+          <h1>📝 错题本</h1>
+          <div id="wrong-list"></div>
+          <button class="btn" onclick="clearWrongQuestions()">清空错题</button>
+          <button class="btn" onclick="showPage('home')">返回首页</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <script>
+    let currentPage = 'home';
+    let examStarted = false;
+    let paper = null;
+    let answers = {};
+<script src="/static/app.js"></script>
+</body>
+</html>

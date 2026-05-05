@@ -1,0 +1,480 @@
+{
+  "paper_id": "语文上册P057",
+  "subject": "语文",
+  "semester": "上册",
+  "paper_num": 57,
+  "total_score": 100,
+  "total_questions": 50,
+  "questions": [
+    {
+      "qid": "C0033",
+      "type": "choice",
+      "question": "（　　）里应该填哪个词语？",
+      "options": [
+        "A. 他们",
+        "B. 夏天",
+        "C. 星星",
+        "D. 班级"
+      ],
+      "answer": "A",
+      "explanation": "根据句意选择合适的词语"
+    },
+    {
+      "qid": "C0009",
+      "type": "fill",
+      "question": "看拼音，写词语：yuè liang",
+      "answer": "蛙",
+      "explanation": "这个字是\"蛙\""
+    },
+    {
+      "qid": "C0022",
+      "type": "choice",
+      "question": "下列词语中 \"为\" 的读音正确的是？",
+      "options": [
+        "A. zhǎng",
+        "B. cháng",
+        "C. zǎng",
+        "D. cáng"
+      ],
+      "answer": "B",
+      "explanation": "\"长\"在表示长度时读\"cháng\""
+    },
+    {
+      "qid": "C0011",
+      "type": "fill",
+      "question": "看拼音，写词语：yú er",
+      "answer": "水",
+      "explanation": "这个字是\"水\""
+    },
+    {
+      "qid": "C0017",
+      "type": "choice",
+      "question": "下列词语中 \"为\" 的读音正确的是？",
+      "options": [
+        "A. zhǎng",
+        "B. cháng",
+        "C. zǎng",
+        "D. cáng"
+      ],
+      "answer": "B",
+      "explanation": "\"长\"在表示长度时读\"cháng\""
+    },
+    {
+      "qid": "C0024",
+      "type": "choice",
+      "question": "下列词语中 \"发\" 的读音正确的是？",
+      "options": [
+        "A. zhǎng",
+        "B. cháng",
+        "C. zǎng",
+        "D. cáng"
+      ],
+      "answer": "B",
+      "explanation": "\"长\"在表示长度时读\"cháng\""
+    },
+    {
+      "qid": "C0008",
+      "type": "fill",
+      "question": "看拼音，写词语：xiǎo cǎo",
+      "answer": "水",
+      "explanation": "这个字是\"水\""
+    },
+    {
+      "qid": "C0015",
+      "type": "fill",
+      "question": "看拼音，写词语：dà shù",
+      "answer": "狗",
+      "explanation": "这个字是\"狗\""
+    },
+    {
+      "qid": "C0049",
+      "type": "fill",
+      "question": "古诗《静夜思》：疑是地____霜",
+      "answer": "疑是地上霜",
+      "explanation": "出自《静夜思》"
+    },
+    {
+      "qid": "C0021",
+      "type": "choice",
+      "question": "下列词语中 \"行\" 的读音正确的是？",
+      "options": [
+        "A. zhǎng",
+        "B. cháng",
+        "C. zǎng",
+        "D. cáng"
+      ],
+      "answer": "B",
+      "explanation": "\"长\"在表示长度时读\"cháng\""
+    },
+    {
+      "qid": "C0044",
+      "type": "judge",
+      "question": "判断对错：小学生要好好学习。",
+      "answer": "×",
+      "explanation": "错误"
+    },
+    {
+      "qid": "C0042",
+      "type": "judge",
+      "question": "判断对错：我们是小学生。",
+      "answer": "×",
+      "explanation": "错误"
+    },
+    {
+      "qid": "C0025",
+      "type": "choice",
+      "question": "下列词语中 \"行\" 的读音正确的是？",
+      "options": [
+        "A. zhǎng",
+        "B. cháng",
+        "C. zǎng",
+        "D. cáng"
+      ],
+      "answer": "B",
+      "explanation": "\"长\"在表示长度时读\"cháng\""
+    },
+    {
+      "qid": "C0028",
+      "type": "choice",
+      "question": "（　　）里应该填哪个词语？",
+      "options": [
+        "A. 她们",
+        "B. 秋天",
+        "C. 太阳",
+        "D. 教室"
+      ],
+      "answer": "D",
+      "explanation": "根据句意选择合适的词语"
+    },
+    {
+      "qid": "C0004",
+      "type": "fill",
+      "question": "看拼音，写词语：xiǎo cǎo",
+      "answer": "田",
+      "explanation": "这个字是\"田\""
+    },
+    {
+      "qid": "C0039",
+      "type": "judge",
+      "question": "判断对错：春天是温暖的季节。",
+      "answer": "√",
+      "explanation": "正确"
+    },
+    {
+      "qid": "C0012",
+      "type": "fill",
+      "question": "看拼音，写词语：shuǐ guǒ",
+      "answer": "狗",
+      "explanation": "这个字是\"狗\""
+    },
+    {
+      "qid": "C0032",
+      "type": "choice",
+      "question": "（　　）里应该填哪个词语？",
+      "options": [
+        "A. 他们",
+        "B. 夏天",
+        "C. 月亮",
+        "D. 学校"
+      ],
+      "answer": "B",
+      "explanation": "根据句意选择合适的词语"
+    },
+    {
+      "qid": "C0002",
+      "type": "fill",
+      "question": "看拼音，写词语：gē",
+      "answer": "羊",
+      "explanation": "这个字是\"羊\""
+    },
+    {
+      "qid": "C0035",
+      "type": "choice",
+      "question": "（　　）里应该填哪个词语？",
+      "options": [
+        "A. 她们",
+        "B. 春天",
+        "C. 太阳",
+        "D. 班级"
+      ],
+      "answer": "C",
+      "explanation": "根据句意选择合适的词语"
+    },
+    {
+      "qid": "C0040",
+      "type": "judge",
+      "question": "判断对错：我们是小学生。",
+      "answer": "√",
+      "explanation": "正确"
+    },
+    {
+      "qid": "C0047",
+      "type": "fill",
+      "question": "古诗《春晓》：春____不觉晓",
+      "answer": "春眠不觉晓",
+      "explanation": "出自《春晓》"
+    },
+    {
+      "qid": "C0029",
+      "type": "choice",
+      "question": "（　　）里应该填哪个词语？",
+      "options": [
+        "A. 他们",
+        "B. 秋天",
+        "C. 星星",
+        "D. 教室"
+      ],
+      "answer": "A",
+      "explanation": "根据句意选择合适的词语"
+    },
+    {
+      "qid": "C0019",
+      "type": "choice",
+      "question": "下列词语中 \"为\" 的读音正确的是？",
+      "options": [
+        "A. zhǎng",
+        "B. cháng",
+        "C. zǎng",
+        "D. cáng"
+      ],
+      "answer": "B",
+      "explanation": "\"长\"在表示长度时读\"cháng\""
+    },
+    {
+      "qid": "C0045",
+      "type": "judge",
+      "question": "判断对错：我们是小学生。",
+      "answer": "√",
+      "explanation": "正确"
+    },
+    {
+      "qid": "C0026",
+      "type": "choice",
+      "question": "（　　）里应该填哪个词语？",
+      "options": [
+        "A. 她们",
+        "B. 秋天",
+        "C. 月亮",
+        "D. 学校"
+      ],
+      "answer": "A",
+      "explanation": "根据句意选择合适的词语"
+    },
+    {
+      "qid": "C0013",
+      "type": "fill",
+      "question": "看拼音，写词语：gē",
+      "answer": "蛙",
+      "explanation": "这个字是\"蛙\""
+    },
+    {
+      "qid": "C0023",
+      "type": "choice",
+      "question": "下列词语中 \"长\" 的读音正确的是？",
+      "options": [
+        "A. zhǎng",
+        "B. cháng",
+        "C. zǎng",
+        "D. cáng"
+      ],
+      "answer": "B",
+      "explanation": "\"长\"在表示长度时读\"cháng\""
+    },
+    {
+      "qid": "C0046",
+      "type": "fill",
+      "question": "古诗《登鹳雀楼》：更____一层楼",
+      "answer": "更上一层楼",
+      "explanation": "出自《登鹳雀楼》"
+    },
+    {
+      "qid": "C0007",
+      "type": "fill",
+      "question": "看拼音，写词语：xiǎo cǎo",
+      "answer": "天",
+      "explanation": "这个字是\"天\""
+    },
+    {
+      "qid": "C0016",
+      "type": "choice",
+      "question": "下列词语中 \"知\" 的读音正确的是？",
+      "options": [
+        "A. zhǎng",
+        "B. cháng",
+        "C. zǎng",
+        "D. cáng"
+      ],
+      "answer": "B",
+      "explanation": "\"长\"在表示长度时读\"cháng\""
+    },
+    {
+      "qid": "C0041",
+      "type": "judge",
+      "question": "判断对错：\"日\"字共有四画。",
+      "answer": "×",
+      "explanation": "错误"
+    },
+    {
+      "qid": "C0050",
+      "type": "fill",
+      "question": "古诗《春晓》：春眠____觉晓",
+      "answer": "春眠不觉晓",
+      "explanation": "出自《春晓》"
+    },
+    {
+      "qid": "C0006",
+      "type": "fill",
+      "question": "看拼音，写词语：rì zi",
+      "answer": "大",
+      "explanation": "这个字是\"大\""
+    },
+    {
+      "qid": "C0018",
+      "type": "choice",
+      "question": "下列词语中 \"长\" 的读音正确的是？",
+      "options": [
+        "A. zhǎng",
+        "B. cháng",
+        "C. zǎng",
+        "D. cáng"
+      ],
+      "answer": "B",
+      "explanation": "\"长\"在表示长度时读\"cháng\""
+    },
+    {
+      "qid": "C0027",
+      "type": "choice",
+      "question": "（　　）里应该填哪个词语？",
+      "options": [
+        "A. 她们",
+        "B. 秋天",
+        "C. 月亮",
+        "D. 教室"
+      ],
+      "answer": "C",
+      "explanation": "根据句意选择合适的词语"
+    },
+    {
+      "qid": "C0038",
+      "type": "judge",
+      "question": "判断对错：小学生要好好学习。",
+      "answer": "×",
+      "explanation": "错误"
+    },
+    {
+      "qid": "C0030",
+      "type": "choice",
+      "question": "（　　）里应该填哪个词语？",
+      "options": [
+        "A. 他们",
+        "B. 夏天",
+        "C. 月亮",
+        "D. 班级"
+      ],
+      "answer": "C",
+      "explanation": "根据句意选择合适的词语"
+    },
+    {
+      "qid": "C0001",
+      "type": "fill",
+      "question": "看拼音，写词语：bà ba",
+      "answer": "蛙",
+      "explanation": "这个字是\"蛙\""
+    },
+    {
+      "qid": "C0034",
+      "type": "choice",
+      "question": "（　　）里应该填哪个词语？",
+      "options": [
+        "A. 我们",
+        "B. 春天",
+        "C. 星星",
+        "D. 班级"
+      ],
+      "answer": "C",
+      "explanation": "根据句意选择合适的词语"
+    },
+    {
+      "qid": "C0020",
+      "type": "choice",
+      "question": "下列词语中 \"长\" 的读音正确的是？",
+      "options": [
+        "A. zhǎng",
+        "B. cháng",
+        "C. zǎng",
+        "D. cáng"
+      ],
+      "answer": "B",
+      "explanation": "\"长\"在表示长度时读\"cháng\""
+    },
+    {
+      "qid": "C0003",
+      "type": "fill",
+      "question": "看拼音，写词语：yuè liang",
+      "answer": "花",
+      "explanation": "这个字是\"花\""
+    },
+    {
+      "qid": "C0048",
+      "type": "fill",
+      "question": "古诗《登鹳雀楼》：更上一层____",
+      "answer": "更上一层楼",
+      "explanation": "出自《登鹳雀楼》"
+    },
+    {
+      "qid": "C0037",
+      "type": "judge",
+      "question": "判断对错：\"人\"字共有两画。",
+      "answer": "√",
+      "explanation": "正确"
+    },
+    {
+      "qid": "C0031",
+      "type": "choice",
+      "question": "（　　）里应该填哪个词语？",
+      "options": [
+        "A. 她们",
+        "B. 春天",
+        "C. 月亮",
+        "D. 教室"
+      ],
+      "answer": "A",
+      "explanation": "根据句意选择合适的词语"
+    },
+    {
+      "qid": "C0014",
+      "type": "fill",
+      "question": "看拼音，写词语：xiǎo cǎo",
+      "answer": "羊",
+      "explanation": "这个字是\"羊\""
+    },
+    {
+      "qid": "C0043",
+      "type": "judge",
+      "question": "判断对错：太阳从东方升起。",
+      "answer": "√",
+      "explanation": "正确"
+    },
+    {
+      "qid": "C0036",
+      "type": "judge",
+      "question": "判断对错：太阳从东方升起。",
+      "answer": "√",
+      "explanation": "正确"
+    },
+    {
+      "qid": "C0005",
+      "type": "fill",
+      "question": "看拼音，写词语：mā ma",
+      "answer": "雨",
+      "explanation": "这个字是\"雨\""
+    },
+    {
+      "qid": "C0010",
+      "type": "fill",
+      "question": "看拼音，写词语：bà",
+      "answer": "小",
+      "explanation": "这个字是\"小\""
+    }
+  ]
+}

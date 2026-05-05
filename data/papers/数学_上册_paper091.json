@@ -1,0 +1,385 @@
+{
+  "paper_id": "数学上册P091",
+  "subject": "数学",
+  "semester": "上册",
+  "paper_num": 91,
+  "total_score": 100,
+  "total_questions": 50,
+  "questions": [
+    {
+      "qid": "M0028",
+      "type": "fill",
+      "question": "计算：60 - 49 = ?",
+      "answer": "11",
+      "explanation": "60 - 49 = 11"
+    },
+    {
+      "qid": "M0010",
+      "type": "fill",
+      "question": "计算：13 + 50 = ?",
+      "answer": "63",
+      "explanation": "13 + 50 = 63"
+    },
+    {
+      "qid": "M0002",
+      "type": "fill",
+      "question": "计算：29 + 42 = ?",
+      "answer": "71",
+      "explanation": "29 + 42 = 71"
+    },
+    {
+      "qid": "M0016",
+      "type": "fill",
+      "question": "计算：61 - 59 = ?",
+      "answer": "2",
+      "explanation": "61 - 59 = 2"
+    },
+    {
+      "qid": "M0012",
+      "type": "fill",
+      "question": "计算：13 + 49 = ?",
+      "answer": "62",
+      "explanation": "13 + 49 = 62"
+    },
+    {
+      "qid": "M0027",
+      "type": "fill",
+      "question": "计算：61 - 9 = ?",
+      "answer": "52",
+      "explanation": "61 - 9 = 52"
+    },
+    {
+      "qid": "M0060",
+      "type": "fill",
+      "question": "小明有15个苹果，吃了10个，还剩多少个？",
+      "answer": "5",
+      "explanation": "15 - 10 = 5（个）"
+    },
+    {
+      "qid": "M0037",
+      "type": "fill",
+      "question": "计算：6 × 9 = ?",
+      "answer": "54",
+      "explanation": "6 × 9 = 54"
+    },
+    {
+      "qid": "M0005",
+      "type": "fill",
+      "question": "计算：33 + 11 = ?",
+      "answer": "44",
+      "explanation": "33 + 11 = 44"
+    },
+    {
+      "qid": "M0040",
+      "type": "fill",
+      "question": "计算：1 × 2 = ?",
+      "answer": "2",
+      "explanation": "1 × 2 = 2"
+    },
+    {
+      "qid": "M0018",
+      "type": "fill",
+      "question": "计算：65 - 45 = ?",
+      "answer": "20",
+      "explanation": "65 - 45 = 20"
+    },
+    {
+      "qid": "M0054",
+      "type": "fill",
+      "question": "小明有13个苹果，吃了3个，还剩多少个？",
+      "answer": "10",
+      "explanation": "13 - 3 = 10（个）"
+    },
+    {
+      "qid": "M0030",
+      "type": "fill",
+      "question": "计算：86 - 55 = ?",
+      "answer": "31",
+      "explanation": "86 - 55 = 31"
+    },
+    {
+      "qid": "M0001",
+      "type": "fill",
+      "question": "计算：8 + 46 = ?",
+      "answer": "54",
+      "explanation": "8 + 46 = 54"
+    },
+    {
+      "qid": "M0025",
+      "type": "fill",
+      "question": "计算：81 - 61 = ?",
+      "answer": "20",
+      "explanation": "81 - 61 = 20"
+    },
+    {
+      "qid": "M0059",
+      "type": "fill",
+      "question": "小明有18个苹果，吃了9个，还剩多少个？",
+      "answer": "9",
+      "explanation": "18 - 9 = 9（个）"
+    },
+    {
+      "qid": "M0011",
+      "type": "fill",
+      "question": "计算：33 + 28 = ?",
+      "answer": "61",
+      "explanation": "33 + 28 = 61"
+    },
+    {
+      "qid": "M0038",
+      "type": "fill",
+      "question": "计算：5 × 6 = ?",
+      "answer": "30",
+      "explanation": "5 × 6 = 30"
+    },
+    {
+      "qid": "M0007",
+      "type": "fill",
+      "question": "计算：20 + 37 = ?",
+      "answer": "57",
+      "explanation": "20 + 37 = 57"
+    },
+    {
+      "qid": "M0043",
+      "type": "choice",
+      "question": "比较大小：7（　）76",
+      "options": [
+        "A. >",
+        "B. <",
+        "C. ="
+      ],
+      "answer": "B",
+      "explanation": "7 小于 76"
+    },
+    {
+      "qid": "M0033",
+      "type": "fill",
+      "question": "计算：3 × 9 = ?",
+      "answer": "27",
+      "explanation": "3 × 9 = 27"
+    },
+    {
+      "qid": "M0003",
+      "type": "fill",
+      "question": "计算：29 + 37 = ?",
+      "answer": "66",
+      "explanation": "29 + 37 = 66"
+    },
+    {
+      "qid": "M0006",
+      "type": "fill",
+      "question": "计算：25 + 48 = ?",
+      "answer": "73",
+      "explanation": "25 + 48 = 73"
+    },
+    {
+      "qid": "M0051",
+      "type": "fill",
+      "question": "小明有25个苹果，吃了4个，还剩多少个？",
+      "answer": "21",
+      "explanation": "25 - 4 = 21（个）"
+    },
+    {
+      "qid": "M0017",
+      "type": "fill",
+      "question": "计算：99 - 69 = ?",
+      "answer": "30",
+      "explanation": "99 - 69 = 30"
+    },
+    {
+      "qid": "M0047",
+      "type": "choice",
+      "question": "比较大小：65（　）94",
+      "options": [
+        "A. >",
+        "B. <",
+        "C. ="
+      ],
+      "answer": "B",
+      "explanation": "65 小于 94"
+    },
+    {
+      "qid": "M0024",
+      "type": "fill",
+      "question": "计算：55 - 24 = ?",
+      "answer": "31",
+      "explanation": "55 - 24 = 31"
+    },
+    {
+      "qid": "M0055",
+      "type": "fill",
+      "question": "小明有20个苹果，吃了2个，还剩多少个？",
+      "answer": "18",
+      "explanation": "20 - 2 = 18（个）"
+    },
+    {
+      "qid": "M0029",
+      "type": "fill",
+      "question": "计算：41 - 39 = ?",
+      "answer": "2",
+      "explanation": "41 - 39 = 2"
+    },
+    {
+      "qid": "M0057",
+      "type": "fill",
+      "question": "小明有12个苹果，吃了6个，还剩多少个？",
+      "answer": "6",
+      "explanation": "12 - 6 = 6（个）"
+    },
+    {
+      "qid": "M0032",
+      "type": "fill",
+      "question": "计算：6 × 7 = ?",
+      "answer": "42",
+      "explanation": "6 × 7 = 42"
+    },
+    {
+      "qid": "M0034",
+      "type": "fill",
+      "question": "计算：2 × 7 = ?",
+      "answer": "14",
+      "explanation": "2 × 7 = 14"
+    },
+    {
+      "qid": "M0008",
+      "type": "fill",
+      "question": "计算：25 + 7 = ?",
+      "answer": "32",
+      "explanation": "25 + 7 = 32"
+    },
+    {
+      "qid": "M0004",
+      "type": "fill",
+      "question": "计算：40 + 7 = ?",
+      "answer": "47",
+      "explanation": "40 + 7 = 47"
+    },
+    {
+      "qid": "M0022",
+      "type": "fill",
+      "question": "计算：26 - 9 = ?",
+      "answer": "17",
+      "explanation": "26 - 9 = 17"
+    },
+    {
+      "qid": "M0053",
+      "type": "fill",
+      "question": "小明有21个苹果，吃了3个，还剩多少个？",
+      "answer": "18",
+      "explanation": "21 - 3 = 18（个）"
+    },
+    {
+      "qid": "M0046",
+      "type": "choice",
+      "question": "比较大小：60（　）15",
+      "options": [
+        "A. >",
+        "B. <",
+        "C. ="
+      ],
+      "answer": "A",
+      "explanation": "60 大于 15"
+    },
+    {
+      "qid": "M0026",
+      "type": "fill",
+      "question": "计算：69 - 45 = ?",
+      "answer": "24",
+      "explanation": "69 - 45 = 24"
+    },
+    {
+      "qid": "M0019",
+      "type": "fill",
+      "question": "计算：53 - 15 = ?",
+      "answer": "38",
+      "explanation": "53 - 15 = 38"
+    },
+    {
+      "qid": "M0013",
+      "type": "fill",
+      "question": "计算：4 + 21 = ?",
+      "answer": "25",
+      "explanation": "4 + 21 = 25"
+    },
+    {
+      "qid": "M0052",
+      "type": "fill",
+      "question": "小明有21个苹果，吃了8个，还剩多少个？",
+      "answer": "13",
+      "explanation": "21 - 8 = 13（个）"
+    },
+    {
+      "qid": "M0058",
+      "type": "fill",
+      "question": "小明有30个苹果，吃了2个，还剩多少个？",
+      "answer": "28",
+      "explanation": "30 - 2 = 28（个）"
+    },
+    {
+      "qid": "M0031",
+      "type": "fill",
+      "question": "计算：9 × 5 = ?",
+      "answer": "45",
+      "explanation": "9 × 5 = 45"
+    },
+    {
+      "qid": "M0036",
+      "type": "fill",
+      "question": "计算：2 × 9 = ?",
+      "answer": "18",
+      "explanation": "2 × 9 = 18"
+    },
+    {
+      "qid": "M0021",
+      "type": "fill",
+      "question": "计算：20 - 4 = ?",
+      "answer": "16",
+      "explanation": "20 - 4 = 16"
+    },
+    {
+      "qid": "M0014",
+      "type": "fill",
+      "question": "计算：32 + 35 = ?",
+      "answer": "67",
+      "explanation": "32 + 35 = 67"
+    },
+    {
+      "qid": "M0049",
+      "type": "choice",
+      "question": "比较大小：93（　）97",
+      "options": [
+        "A. >",
+        "B. <",
+        "C. ="
+      ],
+      "answer": "B",
+      "explanation": "93 小于 97"
+    },
+    {
+      "qid": "M0041",
+      "type": "choice",
+      "question": "比较大小：6（　）78",
+      "options": [
+        "A. >",
+        "B. <",
+        "C. ="
+      ],
+      "answer": "B",
+      "explanation": "6 小于 78"
+    },
+    {
+      "qid": "M0009",
+      "type": "fill",
+      "question": "计算：35 + 22 = ?",
+      "answer": "57",
+      "explanation": "35 + 22 = 57"
+    },
+    {
+      "qid": "M0056",
+      "type": "fill",
+      "question": "小明有19个苹果，吃了5个，还剩多少个？",
+      "answer": "14",
+      "explanation": "19 - 5 = 14（个）"
+    }
+  ]
+}
