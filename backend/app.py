@@ -89,26 +89,61 @@ def init_db():
     conn.close()
 
 # ==================== 题库加载 ====================
-def load_questions(subject, semester, grade='二年级'):
-    """加载指定科目和学期的题库"""
+def load_questions(subject, semester, grade='一年级'):
+    """加载指定科目和学期的题库（包含所有题型）"""
     subject_map = {'语文': 'chinese', '数学': 'math', '英语': 'english'}
+    questions = []
+
+    # 1. 加载主题库文件
     filename = f"{subject_map[subject]}_{grade}_{semester}.json"
     filepath = os.path.join(QUESTIONS_DIR, filename)
-    
     if os.path.exists(filepath):
         with open(filepath, 'r', encoding='utf-8') as f:
-            return json.load(f)
-    return []
+            questions.extend(json.load(f))
+
+    # 2. 数学科目：加载判断题题库（math_*_judge.json）
+    if subject == '数学':
+        judge_file = f"{subject_map[subject]}_{grade}_{semester}_judge.json"
+        judge_path = os.path.join(QUESTIONS_DIR, judge_file)
+        if os.path.exists(judge_path):
+            with open(judge_path, 'r', encoding='utf-8') as f:
+                questions.extend(json.load(f))
+
+    return questions
 
 def generate_paper(grade, subject, semester, num_questions=50):
     """生成一套试卷"""
     questions = load_questions(subject, semester, grade)
-    if len(questions) < num_questions:
-        num_questions = len(questions)
-    
-    selected = random.sample(questions, num_questions)
+
+    # 按题型分组，避免同一题型题目扎堆
+    by_type = {'choice': [], 'fill': [], 'judge': [], 'answer': [], 'application': []}
+    for q in questions:
+        t = q.get('type', 'fill')
+        by_type.setdefault(t, []).append(q)
+
+    selected = []
+    used_qids = set()
+
+    # 轮询从各题型抽取，保证类型均衡
+    types_pool = list(by_type.keys())
+    while len(selected) < num_questions and questions:
+        for t in types_pool:
+            if len(selected) >= num_questions:
+                break
+            avail = [q for q in by_type[t] if q['qid'] not in used_qids]
+            if not avail:
+                continue
+            q = avail[random.randint(0, len(avail) - 1)]
+            selected.append(q)
+            used_qids.add(q['qid'])
+
+    # 如果抽取不够，随机补足
+    if len(selected) < num_questions:
+        remaining = [q for q in questions if q['qid'] not in used_qids]
+        selected.extend(random.sample(remaining, min(num_questions - len(selected), len(remaining))))
+
     paper_id = f"{grade}_{subject}_{semester}_{datetime.now().strftime('%Y%m%d%H%M%S')}_{random.randint(1000,9999)}"
-    
+
     # 存储试卷
     paper_data = {
         'paper_id': paper_id,
@@ -118,7 +153,7 @@ def generate_paper(grade, subject, semester, num_questions=50):
         'questions': selected,
         'total_score': len(selected) * 2  # 每题2分
     }
-    
+
     return paper_data
 
 # ==================== API 路由 ====================
@@ -141,7 +176,7 @@ def health_check():
 def create_paper():
     """生成新试卷"""
     data = request.json
-    grade = data.get('grade', '二年级')
+    grade = data.get('grade', '一年级')
     subject = data.get('subject')
     semester = data.get('semester', '上册')
     num_questions = data.get('num_questions', 50)

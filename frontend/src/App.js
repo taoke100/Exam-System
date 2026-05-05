@@ -20,6 +20,13 @@ function App() {
     }
   }, []);
 
+  useEffect(() => {
+    // 支持从ExamPage等子组件恢复登录状态
+    const handler = (e) => setUser(e.detail);
+    window.addEventListener('restore-user', handler);
+    return () => window.removeEventListener('restore-user', handler);
+  }, []);
+
   const handleLogout = () => {
     localStorage.removeItem('user');
     setUser(null);
