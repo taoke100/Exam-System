@@ -1,0 +1,142 @@
+[
+  {
+    "qid": "M121001",
+    "type": "judge",
+    "question": "判断对错：一百里面有14个一",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121002",
+    "type": "judge",
+    "question": "判断对错：1比5多4",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121003",
+    "type": "judge",
+    "question": "判断对错：长方形有4条边",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121004",
+    "type": "judge",
+    "question": "判断对错：正方形有4条边",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121005",
+    "type": "judge",
+    "question": "判断对错：三角形有3条边",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121006",
+    "type": "judge",
+    "question": "判断对错：6元=60角",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121007",
+    "type": "judge",
+    "question": "判断对错：9角<4元",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121008",
+    "type": "judge",
+    "question": "判断对错：人民币1元等于10角",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121009",
+    "type": "judge",
+    "question": "判断对错：正方形是特殊的长方形",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121010",
+    "type": "judge",
+    "question": "判断对错：6元大于63角",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121011",
+    "type": "judge",
+    "question": "判断对错：一百里面有10个十",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121012",
+    "type": "judge",
+    "question": "判断对错：长方形有3条边",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121013",
+    "type": "judge",
+    "question": "判断对错：正方形有5条边",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121014",
+    "type": "judge",
+    "question": "判断对错：三角形有4条边",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121015",
+    "type": "judge",
+    "question": "判断对错：19元=196角",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121016",
+    "type": "judge",
+    "question": "判断对错：5元大于32元",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121017",
+    "type": "judge",
+    "question": "判断对错：一百里面有10个一",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121018",
+    "type": "judge",
+    "question": "判断对错：13比4少9",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121019",
+    "type": "judge",
+    "question": "判断对错：正方形不是特殊的长方形",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M121020",
+    "type": "judge",
+    "question": "判断对错：三角形有2条边",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  }
+]

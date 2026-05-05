@@ -1,0 +1,142 @@
+[
+  {
+    "qid": "M321001",
+    "type": "judge",
+    "question": "判断对错：分数的分子和分母同时乘以同一个数，大小不变",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321002",
+    "type": "judge",
+    "question": "判断对错：分子相同，分母大的分数反而小",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321003",
+    "type": "judge",
+    "question": "判断对错：正方形是特殊的长方形",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321004",
+    "type": "judge",
+    "question": "判断对错：548平方厘米小于5平方分米",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321005",
+    "type": "judge",
+    "question": "判断对错：面积和周长是不同概念",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321006",
+    "type": "judge",
+    "question": "判断对错：1分米等于10厘米",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321007",
+    "type": "judge",
+    "question": "判断对错：闰年2月有29天",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321008",
+    "type": "judge",
+    "question": "判断对错：126除以9商14余0",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321009",
+    "type": "judge",
+    "question": "判断对错：1末尾有2个0",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321010",
+    "type": "judge",
+    "question": "判断对错：四边形包括正方形、长方形、梯形、平行四边形",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321011",
+    "type": "judge",
+    "question": "判断对错：分数的分子和分母同时加同一个数，大小不变",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321012",
+    "type": "judge",
+    "question": "判断对错：分子相同，分母大的分数反而大",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321013",
+    "type": "judge",
+    "question": "判断对错：正方形不是特殊的长方形",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321014",
+    "type": "judge",
+    "question": "判断对错：490平方厘米大于4平方分米",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321015",
+    "type": "judge",
+    "question": "判断对错：面积等于周长",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321016",
+    "type": "judge",
+    "question": "判断对错：1分米等于100厘米",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321017",
+    "type": "judge",
+    "question": "判断对错：平年2月有29天",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321018",
+    "type": "judge",
+    "question": "判断对错：96除以16商6余0",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321019",
+    "type": "judge",
+    "question": "判断对错：闰年2月有28天",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M321020",
+    "type": "judge",
+    "question": "判断对错：四边形包括正方形、长方形、圆形",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  }
+]

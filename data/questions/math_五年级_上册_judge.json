@@ -1,0 +1,142 @@
+[
+  {
+    "qid": "M511001",
+    "type": "judge",
+    "question": "判断对错：一个数除以小于1的数，商比被除数大",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511002",
+    "type": "judge",
+    "question": "判断对错：循环小数是无限小数",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511003",
+    "type": "judge",
+    "question": "判断对错：4是偶数",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511004",
+    "type": "judge",
+    "question": "判断对错：1既不是质数也不是合数",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511005",
+    "type": "judge",
+    "question": "判断对错：13是质数",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511006",
+    "type": "judge",
+    "question": "判断对错：2是唯一的偶质数",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511007",
+    "type": "judge",
+    "question": "判断对错：平行四边形面积等于底乘高",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511008",
+    "type": "judge",
+    "question": "判断对错：三角形面积等于底乘高除以2",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511009",
+    "type": "judge",
+    "question": "判断对错：54%等于0.54",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511010",
+    "type": "judge",
+    "question": "判断对错：除法是乘法的逆运算",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511011",
+    "type": "judge",
+    "question": "判断对错：一个数除以小于1的数，商比被除数小",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511012",
+    "type": "judge",
+    "question": "判断对错：循环小数是有限小数",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511013",
+    "type": "judge",
+    "question": "判断对错：21是偶数",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511014",
+    "type": "judge",
+    "question": "判断对错：2既不是质数也不是合数",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511015",
+    "type": "judge",
+    "question": "判断对错：68是质数",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511016",
+    "type": "judge",
+    "question": "判断对错：所有偶数都是合数",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511017",
+    "type": "judge",
+    "question": "判断对错：平行四边形面积等于边长乘边长",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511018",
+    "type": "judge",
+    "question": "判断对错：三角形面积等于底乘高",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511019",
+    "type": "judge",
+    "question": "判断对错：42%等于0.042",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M511020",
+    "type": "judge",
+    "question": "判断对错：乘法是除法的逆运算",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  }
+]

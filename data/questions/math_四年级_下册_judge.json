@@ -1,0 +1,142 @@
+[
+  {
+    "qid": "M421001",
+    "type": "judge",
+    "question": "判断对错：[格式化错误: 小数{a}{b}大于小数{a}{c}]",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421002",
+    "type": "judge",
+    "question": "判断对错：三角形内角和是180度",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421003",
+    "type": "judge",
+    "question": "判断对错：等腰三角形有2条边相等",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421004",
+    "type": "judge",
+    "question": "判断对错：等边三角形三条边都相等",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421005",
+    "type": "judge",
+    "question": "判断对错：平行四边形对边相等",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421006",
+    "type": "judge",
+    "question": "判断对错：梯形只有一组对边平行",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421007",
+    "type": "judge",
+    "question": "判断对错：加法交换律：a加b等于b加a",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421008",
+    "type": "judge",
+    "question": "判断对错：乘法交换律：a乘b等于b乘a",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421009",
+    "type": "judge",
+    "question": "判断对错：乘法结合律：(a乘b)乘c等于a乘(b乘c)",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421010",
+    "type": "judge",
+    "question": "判断对错：分配律：a乘(b加c)等于a乘b加a乘c",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421011",
+    "type": "judge",
+    "question": "判断对错：[格式化错误: 小数{a}{c}大于小数{a}{b}]",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421012",
+    "type": "judge",
+    "question": "判断对错：三角形内角和是360度",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421013",
+    "type": "judge",
+    "question": "判断对错：等腰三角形有3条边相等",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421014",
+    "type": "judge",
+    "question": "判断对错：等边三角形只有2条边相等",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421015",
+    "type": "judge",
+    "question": "判断对错：平行四边形四条边都相等",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421016",
+    "type": "judge",
+    "question": "判断对错：梯形两组对边分别平行",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421017",
+    "type": "judge",
+    "question": "判断对错：加法结合律：a加b等于b加a",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421018",
+    "type": "judge",
+    "question": "判断对错：减法满足交换律",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421019",
+    "type": "judge",
+    "question": "判断对错：乘法对加法满足交换律",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M421020",
+    "type": "judge",
+    "question": "判断对错：除法满足结合律",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  }
+]

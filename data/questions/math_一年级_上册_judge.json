@@ -1,0 +1,142 @@
+[
+  {
+    "qid": "M111001",
+    "type": "judge",
+    "question": "判断对错：6+3=9",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111002",
+    "type": "judge",
+    "question": "判断对错：9+0=9",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111003",
+    "type": "judge",
+    "question": "判断对错：18-17=0",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111004",
+    "type": "judge",
+    "question": "判断对错：46>5",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111005",
+    "type": "judge",
+    "question": "判断对错：比5多1的数是6",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111006",
+    "type": "judge",
+    "question": "判断对错：从1数到17，17是第17个数",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111007",
+    "type": "judge",
+    "question": "判断对错：20和8合起来是28",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111008",
+    "type": "judge",
+    "question": "判断对错：3+1=1+3",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111009",
+    "type": "judge",
+    "question": "判断对错：5-5<5",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111010",
+    "type": "judge",
+    "question": "判断对错：9+6=20",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111011",
+    "type": "judge",
+    "question": "判断对错：18+9=9+17",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111012",
+    "type": "judge",
+    "question": "判断对错：45小于45",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111013",
+    "type": "judge",
+    "question": "判断对错：1大于43",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111014",
+    "type": "judge",
+    "question": "判断对错：2大于2",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111015",
+    "type": "judge",
+    "question": "判断对错：11小于11",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111016",
+    "type": "judge",
+    "question": "判断对错：20比5少21",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111017",
+    "type": "judge",
+    "question": "判断对错：13和1合起来是19",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111018",
+    "type": "judge",
+    "question": "判断对错：11减5等于9",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111019",
+    "type": "judge",
+    "question": "判断对错：1加3等于5",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M111020",
+    "type": "judge",
+    "question": "判断对错：6乘5等于30",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  }
+]

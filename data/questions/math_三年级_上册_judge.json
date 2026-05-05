@@ -1,0 +1,142 @@
+[
+  {
+    "qid": "M311001",
+    "type": "judge",
+    "question": "判断对错：16乘5=80",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311002",
+    "type": "judge",
+    "question": "判断对错：20是4的3倍",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311003",
+    "type": "judge",
+    "question": "判断对错：四边形包括正方形和长方形",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311004",
+    "type": "judge",
+    "question": "判断对错：正方形的四条边都相等",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311005",
+    "type": "judge",
+    "question": "判断对错：58厘米=5分米",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311006",
+    "type": "judge",
+    "question": "判断对错：周长是围图形一周的长度",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311007",
+    "type": "judge",
+    "question": "判断对错：9吨=9000千克",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311008",
+    "type": "judge",
+    "question": "判断对错：分数3分之3大于分数3分之4",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311009",
+    "type": "judge",
+    "question": "判断对错：2大于3，乘法积大于加法和",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311010",
+    "type": "judge",
+    "question": "判断对错：正方形是特殊的长方形",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311011",
+    "type": "judge",
+    "question": "判断对错：3乘2等于5",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311012",
+    "type": "judge",
+    "question": "判断对错：5是4的4倍",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311013",
+    "type": "judge",
+    "question": "判断对错：四边形只有正方形和长方形两种",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311014",
+    "type": "judge",
+    "question": "判断对错：正方形只有三条边相等",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311015",
+    "type": "judge",
+    "question": "判断对错：55厘米=6分米",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311016",
+    "type": "judge",
+    "question": "判断对错：周长是图形里面的面积",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311017",
+    "type": "judge",
+    "question": "判断对错：6吨=21千克",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311018",
+    "type": "judge",
+    "question": "判断对错：分数2分之5大于分数2分之4",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311019",
+    "type": "judge",
+    "question": "判断对错：44小于15",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M311020",
+    "type": "judge",
+    "question": "判断对错：正方形不是特殊的长方形",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  }
+]

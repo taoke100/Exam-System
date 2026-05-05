@@ -1,0 +1,142 @@
+[
+  {
+    "qid": "M221001",
+    "type": "judge",
+    "question": "判断对错：58克大于42克",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221002",
+    "type": "judge",
+    "question": "判断对错：余数一定比除数小",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221003",
+    "type": "judge",
+    "question": "判断对错：1000克等于1千克",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221004",
+    "type": "judge",
+    "question": "判断对错：四边形有4条直边",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221005",
+    "type": "judge",
+    "question": "判断对错：正方形四条边一样长",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221006",
+    "type": "judge",
+    "question": "判断对错：长方形对边相等",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221007",
+    "type": "judge",
+    "question": "判断对错：19乘0等于0",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221008",
+    "type": "judge",
+    "question": "判断对错：136除以136等于1",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221009",
+    "type": "judge",
+    "question": "判断对错：有余数的除法余数小于除数",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221010",
+    "type": "judge",
+    "question": "判断对错：正方形是特殊的长方形",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221011",
+    "type": "judge",
+    "question": "判断对错：1克大于77克",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221012",
+    "type": "judge",
+    "question": "判断对错：余数一定比被除数小",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221013",
+    "type": "judge",
+    "question": "判断对错：1000克等于10千克",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221014",
+    "type": "judge",
+    "question": "判断对错：四边形有3条边",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221015",
+    "type": "judge",
+    "question": "判断对错：正方形只有2条边一样长",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221016",
+    "type": "judge",
+    "question": "判断对错：长方形四条边都一样长",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221017",
+    "type": "judge",
+    "question": "判断对错：8乘0等于8",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221018",
+    "type": "judge",
+    "question": "判断对错：15除以1等于1",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221019",
+    "type": "judge",
+    "question": "判断对错：有余数的除法余数大于除数",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M221020",
+    "type": "judge",
+    "question": "判断对错：正方形不是特殊的长方形",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  }
+]

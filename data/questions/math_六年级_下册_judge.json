@@ -1,0 +1,142 @@
+[
+  {
+    "qid": "M621001",
+    "type": "judge",
+    "question": "判断对错：圆柱的体积等于底面积乘高",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621002",
+    "type": "judge",
+    "question": "判断对错：圆锥的体积等于三分之一乘底面积乘高",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621003",
+    "type": "judge",
+    "question": "判断对错：正比例关系中y等于kx（k不为0）",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621004",
+    "type": "judge",
+    "question": "判断对错：反比例关系中xy等于k（k不为0）",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621005",
+    "type": "judge",
+    "question": "判断对错：数对(a,b)表示第a列第b行",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621006",
+    "type": "judge",
+    "question": "判断对错：负数都小于0",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621007",
+    "type": "judge",
+    "question": "判断对错：负3的绝对值是3",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621008",
+    "type": "judge",
+    "question": "判断对错：条形统计图能清楚看到数量多少",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621009",
+    "type": "judge",
+    "question": "判断对错：折线统计图能反映数据变化趋势",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621010",
+    "type": "judge",
+    "question": "判断对错：扇形统计图能反映各部分与总数的关系",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621011",
+    "type": "judge",
+    "question": "判断对错：圆柱的体积等于底面周长乘高",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621012",
+    "type": "judge",
+    "question": "判断对错：圆锥的体积等于底面积乘高",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621013",
+    "type": "judge",
+    "question": "判断对错：正比例关系中y等于k除以x",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621014",
+    "type": "judge",
+    "question": "判断对错：反比例关系中y等于kx",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621015",
+    "type": "judge",
+    "question": "判断对错：数对(a,b)表示第a行第b列",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621016",
+    "type": "judge",
+    "question": "判断对错：负数都大于0",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621017",
+    "type": "judge",
+    "question": "判断对错：负8的绝对值是负8",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621018",
+    "type": "judge",
+    "question": "判断对错：条形统计图能反映数据变化趋势",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621019",
+    "type": "judge",
+    "question": "判断对错：折线统计图能清楚看到各部分占比",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M621020",
+    "type": "judge",
+    "question": "判断对错：扇形统计图能反映数据变化趋势",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  }
+]

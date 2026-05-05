@@ -1,0 +1,142 @@
+[
+  {
+    "qid": "M411001",
+    "type": "judge",
+    "question": "判断对错：射线有1个端点",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411002",
+    "type": "judge",
+    "question": "判断对错：直线没有端点",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411003",
+    "type": "judge",
+    "question": "判断对错：线段有2个端点",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411004",
+    "type": "judge",
+    "question": "判断对错：27万大于2万",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411005",
+    "type": "judge",
+    "question": "判断对错：垂直是相交的特种形式",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411006",
+    "type": "judge",
+    "question": "判断对错：平行线永不相交",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411007",
+    "type": "judge",
+    "question": "判断对错：锐角大于0度小于90度",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411008",
+    "type": "judge",
+    "question": "判断对错：90度是直角",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411009",
+    "type": "judge",
+    "question": "判断对错：钝角大于90度小于180度",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411010",
+    "type": "judge",
+    "question": "判断对错：平行四边形两组对边分别平行",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411011",
+    "type": "judge",
+    "question": "判断对错：射线有0个端点",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411012",
+    "type": "judge",
+    "question": "判断对错：直线有2个端点",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411013",
+    "type": "judge",
+    "question": "判断对错：线段有1个端点",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411014",
+    "type": "judge",
+    "question": "判断对错：2万大于64万",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411015",
+    "type": "judge",
+    "question": "判断对错：垂直的线一定相交",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411016",
+    "type": "judge",
+    "question": "判断对错：平行线一定会相交",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411017",
+    "type": "judge",
+    "question": "判断对错：锐角大于90度",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411018",
+    "type": "judge",
+    "question": "判断对错：直角等于91度",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411019",
+    "type": "judge",
+    "question": "判断对错：钝角小于90度",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M411020",
+    "type": "judge",
+    "question": "判断对错：梯形两组对边分别平行",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  }
+]

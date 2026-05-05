@@ -1,0 +1,142 @@
+[
+  {
+    "qid": "M211001",
+    "type": "judge",
+    "question": "判断对错：18乘6=108，108除以6等于18",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211002",
+    "type": "judge",
+    "question": "判断对错：9除以3=9，9乘3=27",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211003",
+    "type": "judge",
+    "question": "判断对错：22是双数",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211004",
+    "type": "judge",
+    "question": "判断对错：角的两条边是直的",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211005",
+    "type": "judge",
+    "question": "判断对错：一个角有1个顶点",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211006",
+    "type": "judge",
+    "question": "判断对错：正方形是特殊的长方形",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211007",
+    "type": "judge",
+    "question": "判断对错：7米=700厘米",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211008",
+    "type": "judge",
+    "question": "判断对错：12乘1等于12",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211009",
+    "type": "judge",
+    "question": "判断对错：16除以2等于8",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211010",
+    "type": "judge",
+    "question": "判断对错：1乘0等于0",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211011",
+    "type": "judge",
+    "question": "判断对错：4乘9等于6",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211012",
+    "type": "judge",
+    "question": "判断对错：19除以8等于22",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211013",
+    "type": "judge",
+    "question": "判断对错：22是单数",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211014",
+    "type": "judge",
+    "question": "判断对错：角有0个顶点",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211015",
+    "type": "judge",
+    "question": "判断对错：6乘1等于0",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211016",
+    "type": "judge",
+    "question": "判断对错：18乘0等于18",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211017",
+    "type": "judge",
+    "question": "判断对错：48除以4等于13",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211018",
+    "type": "judge",
+    "question": "判断对错：100厘米=2米",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211019",
+    "type": "judge",
+    "question": "判断对错：23是双数",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M211020",
+    "type": "judge",
+    "question": "判断对错：4除以1等于0",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  }
+]

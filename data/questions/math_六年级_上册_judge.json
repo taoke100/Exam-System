@@ -1,0 +1,142 @@
+[
+  {
+    "qid": "M611001",
+    "type": "judge",
+    "question": "判断对错：圆的直径是半径的2倍",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611002",
+    "type": "judge",
+    "question": "判断对错：圆周率π约等于3.14",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611003",
+    "type": "judge",
+    "question": "判断对错：圆的周长等于2πr",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611004",
+    "type": "judge",
+    "question": "判断对错：圆的面积等于πr平方",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611005",
+    "type": "judge",
+    "question": "判断对错：比的前后项同时乘以同一个数，比值不变",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611006",
+    "type": "judge",
+    "question": "判断对错：30%等于0.3",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611007",
+    "type": "judge",
+    "question": "判断对错：比和分数可以互相转换",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611008",
+    "type": "judge",
+    "question": "判断对错：打折就是用原价乘以折扣",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611009",
+    "type": "judge",
+    "question": "判断对错：圆的半径有无数条",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611010",
+    "type": "judge",
+    "question": "判断对错：百分数表示一个数是另一个数的百分之几",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611011",
+    "type": "judge",
+    "question": "判断对错：圆的直径是半径的3倍",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611012",
+    "type": "judge",
+    "question": "判断对错：圆周率π等于3.14",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611013",
+    "type": "judge",
+    "question": "判断对错：圆的周长等于πr",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611014",
+    "type": "judge",
+    "question": "判断对错：圆的面积等于2πr平方",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611015",
+    "type": "judge",
+    "question": "判断对错：出勤率不可以超过100%",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611016",
+    "type": "judge",
+    "question": "判断对错：甲比乙多20%，乙比甲少20%",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611017",
+    "type": "judge",
+    "question": "判断对错：所有小数都能化成分数",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611018",
+    "type": "judge",
+    "question": "判断对错：比的后项可以为0",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611019",
+    "type": "judge",
+    "question": "判断对错：打折就是用原价除以折扣",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M611020",
+    "type": "judge",
+    "question": "判断对错：圆的半径只有4条",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  }
+]

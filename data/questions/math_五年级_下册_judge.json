@@ -1,0 +1,142 @@
+[
+  {
+    "qid": "M521001",
+    "type": "judge",
+    "question": "判断对错：同底等高的三角形面积相等",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521002",
+    "type": "judge",
+    "question": "判断对错：真分数小于1",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521003",
+    "type": "judge",
+    "question": "判断对错：假分数大于或等于1",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521004",
+    "type": "judge",
+    "question": "判断对错：a除以b等于a分之b（b不为0）",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521005",
+    "type": "judge",
+    "question": "判断对错：方程是含有未知数的等式",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521006",
+    "type": "judge",
+    "question": "判断对错：长方体有6个面、12条棱、8个顶点",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521007",
+    "type": "judge",
+    "question": "判断对错：正方体是特殊的长方体",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521008",
+    "type": "judge",
+    "question": "判断对错：约分不改变分数大小",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521009",
+    "type": "judge",
+    "question": "判断对错：通分便于分数比较大小",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521010",
+    "type": "judge",
+    "question": "判断对错：分数的分子和分母同时除以一个数，分数大小不变",
+    "answer": "对",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521011",
+    "type": "judge",
+    "question": "判断对错：同底等高的三角形周长相等",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521012",
+    "type": "judge",
+    "question": "判断对错：真分数大于1",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521013",
+    "type": "judge",
+    "question": "判断对错：假分数小于1",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521014",
+    "type": "judge",
+    "question": "判断对错：a除以b等于b分之a",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521015",
+    "type": "judge",
+    "question": "判断对错：方程是含有字母的式子",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521016",
+    "type": "judge",
+    "question": "判断对错：长方体有8个面、12条棱、6个顶点",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521017",
+    "type": "judge",
+    "question": "判断对错：长方体是特殊的正方体",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521018",
+    "type": "judge",
+    "question": "判断对错：约分改变分数大小",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521019",
+    "type": "judge",
+    "question": "判断对错：通分是为了把分数变大",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  },
+  {
+    "qid": "M521020",
+    "type": "judge",
+    "question": "判断对错：分数的分子和分母同时加一个数，分数大小不变",
+    "answer": "错",
+    "explanation": "根据数学知识判断题目叙述是否正确"
+  }
+]
